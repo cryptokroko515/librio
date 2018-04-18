@@ -4,17 +4,15 @@ Librio is a python script that rebalances your Binance Exchange Portfolio accord
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-You will need python installed.
-You need to have a Binance account with some $$$ in crypto.
-You will also need to have an api key enabled. Please be very careful with this key.
-Don't upload it to anything and if possible set the api setting to limit IP addresses.
+* You will need python installed.
+* You need to have a Binance account with some $$$ in crypto.
+* You will also need to have an api key enabled. Please be **very careful** with this key.
+* **Don't upload it to anything and if possible set the api setting to limit IP addresses.**
 
 ### Installing
 
+Copy your API KEY and SECRET to the appropriate places in `config.py`
 
 ```
 git clone https://github.com/Daniel-Wang/librio.git
@@ -24,6 +22,9 @@ cd librio
 
 ## Running the script
 
+Take some time to adjust the numbers and the symbols of your preferred portfolio composition in `data.json`.
+
+Set `OFFLINE` to `false` in `config.py`
 
 ```
 python main.py
