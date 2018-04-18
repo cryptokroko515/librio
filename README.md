@@ -36,7 +36,7 @@ python main.py
 If you want to help improve Librio please submit a Pull Request.
 Some possible suggestions on things to submit:
 
-* Improved rebalancing
+* Improve rebalancing algorithm (current one is brute force simple)
 * Add support for more exchanges
 * Improve the user experience
 
@@ -55,5 +55,5 @@ This project is licensed under the MIT License.
 
 * https://medium.com/@ShrimpyApp/portfolio-rebalancing-for-cryptocurrency-7a129a968ff4
 * Inspiration
-* etc
+* Please give this project a star if you found it helpful or useful!
 
