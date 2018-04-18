@@ -1,0 +1,33 @@
+{
+	"coins": [
+		{
+			"symbol": "ETH",
+			"target": 21.0
+		},
+		{
+			"symbol": "XRP",
+			"target": 21.0
+		},
+		{
+			"symbol": "LTC",
+			"target": 15.0
+		},
+		{
+			"symbol": "XLM",
+			"target": 14.0
+		},
+		{
+			"symbol": "ADA",
+			"target": 7.5
+		},
+		{
+			"symbol": "NEO",
+			"target": 14.0
+		},
+		{
+			"symbol": "XMR",
+			"target": 7.5
+		}
+	],
+	"margin": 9.0
+}
