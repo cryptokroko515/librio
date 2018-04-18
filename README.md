@@ -12,9 +12,10 @@ Librio is a python script that rebalances your Binance Exchange Portfolio accord
 
 ### Installing
 
-Copy your API KEY and SECRET to the appropriate places in `config.py`
+Copy your API KEY and SECRET to the appropriate places in `config.py` Using the python binance client from https://github.com/sammchardy/python-binance
 
 ```
+pip install python-binance
 git clone https://github.com/Daniel-Wang/librio.git
 cd librio
 ```
@@ -54,6 +55,7 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 * https://medium.com/@ShrimpyApp/portfolio-rebalancing-for-cryptocurrency-7a129a968ff4
+* Thanks for the python-client https://github.com/sammchardy/python-binance
 * Inspiration
 * Please give this project a star if you found it helpful or useful!
 
