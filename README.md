@@ -34,9 +34,10 @@ python main.py
 
 If you want to help improve Librio please submit a Pull Request.
 Some possible suggestions on things to submit:
-	* Improved rebalancing
-	* Add support for more exchanges
-	* Improve the user experience
+
+* Improved rebalancing
+* Add support for more exchanges
+* Improve the user experience
 
 
 ## Authors
